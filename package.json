@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index.js",
     "dev": "env-cmd -f src/config/dev.env nodemon src/index.js",
     "test": "env-cmd -f src/config/test.env jest --watchAll --runInBand",
     "db": "C:/Users/elafi/mongodb/bin/mongod.exe --dbpath=C:/Users/elafi/mongodb-data"
