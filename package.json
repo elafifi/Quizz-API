@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@babel/runtime": "^7.16.5",
+    "@babel/runtime": "^7.23.9",
     "bcrypt": "^5.0.1",
     "cookie-session": "^2.0.0",
     "env-cmd": "^10.1.0",
