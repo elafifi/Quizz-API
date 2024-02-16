@@ -27,7 +27,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.2.2",
     "mongoose": "^6.1.2",
-    "validator": "^13.7.0"
+    "validator": "^13.11.0"
   },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.16.5",
